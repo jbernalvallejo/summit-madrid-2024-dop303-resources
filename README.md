@@ -20,7 +20,7 @@ Listado de recursos de la sesión DOP303, como parte del track de _Tecnologías 
 
 ### Messaging and Integration patterns
 
-- [EDA Visuals](https://serverlessland.com/event-driven-architecture/visuals)
+- [EDA Visuals](https://serverlessland.com/event-driven-architecture/visuals): _Small bite sized visuals about event-driven architectures_. Tarjetas visuales que exploran desde conceptos básicos de EDA hasta patrones de mensajería e integración pasando por domain-driven design, etc.
 - [Colección de patrones](https://serverlessland.com/patterns) para tener un punto de partida mediante IaC al construir tus aplicaciones y/o integraciones.
 - [Amazon SQS](https://serverlessland.com/sqs)
 - [Amazon EventBridge](https://serverlessland.com/eventbridge)
